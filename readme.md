@@ -1,3 +1,4 @@
+Lista de funcionalidades do pi
 Funções do Admin:
 Cadastrar, visualizar, alterar e deletar produtos;
 Visualizar e finalizar pedidos.
